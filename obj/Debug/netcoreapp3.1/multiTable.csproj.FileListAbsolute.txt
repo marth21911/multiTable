@@ -1,0 +1,13 @@
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.exe
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.deps.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.runtimeconfig.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.runtimeconfig.dev.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\bin\Debug\netcoreapp3.1\multiTable.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.csprojAssemblyReference.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.AssemblyInfoInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.AssemblyInfo.cs
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.csproj.CoreCompileInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\multiTable\obj\Debug\netcoreapp3.1\multiTable.genruntimeconfig.cache
